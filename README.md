@@ -7,7 +7,7 @@ Usage:
     $ ./activate.sh /mnt/tomtom
     0) Iberia/Iberia
     
-    # this will activated the
+    # this will activate the
     # first card in the list
     ./activate.sh /mnt/tomtom 0
 
